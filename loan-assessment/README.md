@@ -64,3 +64,6 @@ public class MinimumAgeRule implements EligibilityRule {
 }
 ```
 Then add `new MinimumAgeRule()` to the list passed to `LoanAssessmentEngine`.
+
+## video
+Public URL: https://youtu.be/DWFJ0WHJfSA
